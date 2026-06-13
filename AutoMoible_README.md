@@ -57,7 +57,7 @@ Open the notebooks and run all cells.
 
 ## 👨‍💻 Author
 
-**Anuj Jeewan Zoting**
+**Tushar Hemraj Ninawe**
 
 ## 📜 License
 

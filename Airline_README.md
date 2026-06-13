@@ -168,7 +168,7 @@ Through this project, the following concepts were practiced:
 
 ## 👨‍💻 Author
 
-**Anuj Jeewan Zoting**
+**Tushar Hemraj Ninawe**
 
 Aspiring Data Analyst | Python Enthusiast
 
